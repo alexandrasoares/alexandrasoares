@@ -1,6 +1,6 @@
 ### Oláa! Alexandra Soares por aqui! 👋
 
-- 🔭 Eu sou Desenvolvedora Front End
+- 🔭 Sou Desenvolvedora Front End
 - 🌱 Estou estudando e buscando me aprofundar em Javascript e Typescript
 - 📫 Contato => alexandra.soares@outlook.com
 - 😄 Pronouns: ela/dela
