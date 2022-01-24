@@ -1,7 +1,9 @@
-### Oláa! Alexandra Soares por aqui! 👋
+### Oláa! Alexandra Soa 💻res por aqui! 👋
 
-- 🔭 Sou Desenvolvedora Front End
+- 👩‍💻 Sou Desenvolvedora Front End na Avanade Brasil
 - 🌱 Estou estudando e buscando me aprofundar em Javascript e Typescript
+- 👩‍🎓 Formada em Gestão da Tecnologia da Informação
+- 📚 Estudante no curso Bacharelado em Tecnologia da Informação na Univesp
 - 📫 Contato => alexandra.soares@outlook.com
 - 😄 Pronouns: ela/dela
 
