@@ -1,6 +1,6 @@
 ### Oláa! Alexandra Soares por aqui! 👋
 
-- 👩‍💻 Sou Desenvolvedora Front End na Zup.
+- 👩‍💻 Sou Desenvolvedora Front End.
 - 🌱 Estou estudando e buscando me aprofundar em Javascript e Typescript
 - 👩‍🎓 Formada em Gestão da Tecnologia da Informação
 - 📚 Estudante no curso Bacharelado em Tecnologia da Informação na Univesp
